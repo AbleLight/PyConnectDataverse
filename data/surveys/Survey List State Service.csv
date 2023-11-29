@@ -1,0 +1,130 @@
+﻿Name,State,Service,State Service,Description
+CO - Group Home ,CO,Group Home,Group Home ,Group Home
+IL - CILA-24 Hour,IL,Group Home,CILA-24 Hour,CILA-24 Hour 
+IN - Residential (daily) ,IN,Group Home,Residential (daily) ,Residential (daily) 
+KS - Group Home ,KS,Group Home,Group Home ,Group Home 
+MI - Group Home ,MI,Group Home,Group Home ,Group Home 
+MN - Group Home ,MN,Group Home,Group Home ,Group Home 
+MO - Group Home ,MO,Group Home,Group Home ,Group Home 
+NJ - Group Home ,NJ,Group Home,Group Home ,Group Home 
+OR - Group Home ,OR,Group Home,Group Home ,Group Home 
+TX - Group Home ,TX,Group Home,Group Home ,Group Home 
+WA - Assisted Living ,WA,Group Home,Assisted Living ,Assisted Living 
+WI - Group Home,WI,Group Home,Group Home,Group Home
+TX - PAC,TX,PAC,PAC,Personal Assistance
+OR - Day Spt. (non-work),OR,PAC,Day Spt. (non-work),Day Support Activity (non-work)
+CA - ICF Group Home ,CA,ICF,ICF Group Home ,ICF Group Home 
+CO - ICF Group Home ,CO,ICF,ICF Group Home ,ICF Group Home 
+IN - ICF Residential,IN,ICF,ICF Residential,ICF Residential
+MN - ICF Group Home ,MN,ICF,ICF Group Home ,ICF Group Home 
+TX - ICF Group Home ,TX,ICF,ICF Group Home ,ICF Group Home 
+CA - Adult Foster Care ,CA,Shared Living,Adult Foster Care ,Adult Foster Care 
+CO - Family Care Giver ,CO,Shared Living,Family Care Giver ,Family Care Giver 
+IL - Host Home ,IL,Shared Living,Host Home ,Host Home 
+IN - Structured Family Caregiving,IN,Shared Living,Structured Family Caregiving,Structured Family Caregiving
+KS - Shared Living ,KS,Shared Living,Shared Living ,Shared Living 
+MI - Adult Foster Care ,MI,Shared Living,Adult Foster Care ,Adult Foster Care 
+TX - Adult Foster Care ,TX,Shared Living,Adult Foster Care ,Adult Foster Care 
+CA - Transportation ,CA,Transportation,Transportation ,Transportation 
+CO - Transportation ,CO,Transportation,Transportation ,Transportation 
+IL - Transportation ,IL,Transportation,Transportation ,Transportation 
+IN - Transportation ,IN,Transportation,Transportation ,Transportation 
+MI - Transportation ,MI,Transportation,Transportation ,Transportation 
+MO - Transportation ,MO,Transportation,Transportation ,Transportation 
+OR - Transportation ,OR,Transportation,Transportation ,Transportation 
+WI - Transportation ,WI,Transportation,Transportation ,Transportation 
+IN - Personal Assistance and Care,IN,PAC,Personal Assistance and Care,Personal Assistance and Care
+CA - Day Services ,CA,Day Services,Day Services ,Day Services 
+CA - 1:1 Supports,CA,1:1 Supports,1:1 Supports,1:1 Supports
+IL - 53R-1:1 Supports,IL,1:1 Supports,53R-1:1 Supports,53R-Temporary Intensive Staffing-Residential Staffing
+CO - Day Hab (Special Hab) ,CO,Day Services,Day Hab (Special Hab) ,Day Habilitation (Special Hab) 
+IL - 37U-At Home Day Program,IL,Day Services,37U-At Home Day Program,37U-At Home Day Program
+IN - Day Hab Individual,IN,Day Services,Day Hab Individual,Day Habilitation Individual
+IN - CHIO,IN,Community Life,CHIO,Community Habilitation Individual (CHIO)
+KS - Comm Based Day Serv,KS,Day Services,Comm Based Day Serv,Community Based Day Service 
+WA - SLS,WA,In Home Supports,SLS,Supported Living Services
+MN - ICF At Home Day Serv,MN,Day Services,ICF At Home Day Serv,ICF At Home Day Service 
+MO - In Home Supports,MO,In Home Supports,In Home Supports,In Home Supports
+OR - Day Services ,OR,Day Services,Day Services ,Day Services 
+KS - In Home Supports,KS,In Home Supports,In Home Supports,In Home Supports
+TX - ICF Day Service ,TX,Day Services,ICF Day Service ,ICF Day Service 
+MI - Personal Care,MI,In Home Supports,Personal Care,Personal Care
+WI - Day Services ,WI,Day Services,Day Services ,Day Services 
+CA - ILS,CA,In Home Supports,ILS,Independent Living Services
+CO - Supported Employment ,CO,Employment,Supported Employment ,Supported Employment 
+WI - Supported Employment ,WI,Employment,Supported Employment ,Supported Employment 
+OR - Case Management,OR,Case Management,Case Management,Case Management
+CO - Respite ,CO,Respite,Respite ,Respite 
+IN - Respite ,IN,Respite,Respite ,Respite 
+TX - Nursing,TX,Nursing,Nursing,Nursing Services
+WI - Respite ,WI,Respite,Respite ,Respite 
+MO - RN Services,MO,Nursing,RN Services,RN Services
+MO - Respite ,MO,Respite,Respite ,Respite 
+IN - Wellness Coordination,IN,Nursing,Wellness Coordination,Wellness Coordination
+CO - Behavior Supports Counseling,CO,Behavior Supports,Behavior Supports Counseling,Behavior Supports Counseling
+IL - 56U-Intervention and Treatment,IL,Behavior Supports,56U-Intervention and Treatment,56U-Behavior Intervention and Treatment
+MO - 97151-HO Behavior Identification Assessment,MO,Behavior Supports,97151-HO Behavior Identification Assessment,97151-HO Behavior Identification Assessment
+OR - Behavior Supports,OR,Behavior Supports,Behavior Supports,Behavior Supports
+CA - Group Home,CA,Group Home,Group Home,Licensed Group Home
+CO - Host Home,CO,Shared Living,Host Home,Host Home
+WI - Prevocational,WI,Prevocational,Prevocational,Prevocational
+WI - Community Programming,WI,Community Life,Community Programming,Community Programming
+TX - HCS Day Services,TX,Day Services,HCS Day Services,HCS Day Services
+CO - Supported Community Connections,CO,Community Life,Supported Community Connections,Supported Community Connections
+CO - PCA,CO,In Home Supports,PCA,
+MN - Respite,MN,Respite,Respite,Respite
+MN - Shared Living,MN,Shared Living,Shared Living,Shared Living
+MO - ISL,MO,Group Home,ISL,ISL
+OR - 1:1 Attendant Care,OR,Community Life,1:1 Attendant Care,1:1 Attendant Care
+MO - Staff Vehicle Transportation,MO,Transportation,Staff Vehicle Transportation,Staff Vehicle Transportation
+MO - 97152-HO Observational Behavioral Follow-Up Assessment,MO,Behavior Supports,97152-HO Observational Behavioral Follow-Up Assessment,97152-HO Observational Behavioral Follow-Up Assessment
+MO - 97153-HM Adaptive Behavior Treatment by Protocol by Technician,MO,Behavior Supports,97153-HM Adaptive Behavior Treatment by Protocol by Technician,97153-HM Adaptive Behavior Treatment by Protocol by Technician
+MO - 97155-HO-Adaptive Behavior Treatment with Protocol Modification,MO,Behavior Supports,97155-HO-Adaptive Behavior Treatment with Protocol Modification,97155-HO Adaptive Behavior Treatment with Protocol Modification
+CO - Behavior Supports Line Staff,CO,Behavior Supports,Behavior Supports Line Staff,Behavior Supports Line Staff
+CO - Behavior Supports Plan Assessments,CO,Behavior Supports,Behavior Supports Plan Assessments,Behavior Supports Plan Assessment
+CO - Behavior Supports Consultation,CO,Behavior Supports,Behavior Supports Consultation,Behavior Supports Consultation
+CO - SLS Behavior Support Counseling,CO,Behavior Supports,SLS Behavior Support Counseling,SLS Behavior Support Counseling
+CO - SLS Behavior Supports Line Staff,CO,Behavior Supports,SLS Behavior Supports Line Staff,SLS Behavior Supports Line Staff
+CO - SLS Behavior Supports Plan Assessment,CO,Behavior Supports,SLS Behavior Supports Plan Assessment,SLS Behavior Supports Plan Assessment
+CO - SLS Behavior Supports Consultation,CO,Behavior Supports,SLS Behavior Supports Consultation,SLS Behavior Supports Consultation
+WI - Daily Living Skills Training,WI,STEPS,Daily Living Skills Training,Daily Living Skills Training
+WI - Community Based Socialization,WI,STEPS,Community Based Socialization,Community Based Socialization
+MO - 97156 HN Family Training,MO,Family Training,97156 HN Family Training,97156 HN Family Training
+WI - Bethesda College - Check In|Out,WI,Bethesda College,Bethesda College - Check In/Out,Bethesda College - Check In/Out
+WI - Bethesda College - BCRA Daily Log,WI,Bethesda College,Bethesda College - BCRA Daily Log,Bethesda College - BCRA Daily Log
+WI - Bethesda College - Life Skills,WI,Bethesda College,Bethesda College - Life Skills,Bethesda College - Life Skills
+WI - Bethesda College - Job Coaching,WI,Bethesda College,Bethesda College - Job Coaching,Bethesda College - Job Coaching
+WI - Bethesda College - Advisory,WI,Bethesda College,Bethesda College - Advisory,Bethesda College - Advisory
+CO - Behavior Identification Assessment ,CO,Behavior Supports,Behavior Identification Assessment ,"Behavior identification assessment, by professional "
+CO - Behavior Identification Supporting Assessment ,CO,Behavior Supports,Behavior Identification Supporting Assessment ,"Behavior identification supporting assessment, by one technician, under direction of professional (QHP may substitute for technician)"
+CO - Adaptive Behavior Treatment by Technician,CO,Behavior Supports,Adaptive Behavior Treatment by Technician,"Adaptive behavior treatment by protocol, by technician under direction of professional (QHP may substitute for technician)"
+CO - Adaptive Behavior Treatment with Protocol Modification ,CO,Behavior Supports,Adaptive Behavior Treatment with Protocol Modification ,"Adaptive behavior treatment with protocol modification, by professional"
+CO - Family Adaptive Behavior,CO,Behavior Supports,Family Adaptive Behavior,"Family adaptive behavior treatment guidance, by professional (with or without patient present)"
+CO - Multi-Family Group Adaptive Behavior Guidance,CO,Behavior Supports,Multi-Family Group Adaptive Behavior Guidance,"Multiple-family group adaptive behavior treatment guidance, by professional (without patient present)"
+CO - Group Adaptive Treatment with Protocol Modification,CO,Behavior Supports,Group Adaptive Treatment with Protocol Modification,"Group adaptive treatment with protocol modification, by professional"
+CO - Behavior Counseling Group,CO,Behavior Supports,Behavior Counseling Group,Behavior Counseling Group
+"IN - Day Hab, Small Group",IN,Day Services,"Day Hab, Small Group","Day Habilitation, Small Group"
+"IN - Day Hab, Medium Group",IN,Day Services,"Day Hab, Medium Group","Day Habilitation, Medium Group"
+"IN - 1-2 ResHab, Level 2",IN,In Home Supports,"1-2 ResHab, Level 2","1-2 Residential Habilitation Services, Level 2 (Over 35 Hours/Week"
+"IN - Staff 2 ResHab, Level 2",IN,In Home Supports,"Staff 2 ResHab, Level 2","Staff 2 -Residential Habilitation Services, Level 2 (Over 35 Hours/Week"
+"IN - Res Hab, Level 1",IN,In Home Supports,"Res Hab, Level 1","Residential Habilitation Services, Level 1 (35 or Less Hours/Week)"
+"IN - Res Hab, Level 2",IN,In Home Supports,"Res Hab, Level 2","Residential Habilitation Services, Level 2 (Over 35 Hours/Week)"
+IL - 97155-ABT w|Protocol Modification,IL,Behavior Supports,97155-ABT w/Protocol Modification,97155-Adaptive Behavior Treatment with Protocol Modification
+IL - 97153-HM ABT by Protocol,IL,Behavior Supports,97153-HM ABT by Protocol,97153-HM Adaptive Behavior Treatment by Protocol
+IL - 97151-HO Behavior ID Assessment,IL,Behavior Supports,97151-HO Behavior ID Assessment,97151-HO Behavior Identification Assessment 
+IL - 97152-HO Behavior ID Supporting Assessment,IL,Behavior Supports,97152-HO Behavior ID Supporting Assessment,97152-HO Behavior Identification Supporting Assessment
+IL - 99072-Behavior Support COVID Expenses,IL,Behavior Supports,99072-Behavior Support COVID Expenses,"99072-Additional Supplies, Materials, and Clinical Staff Time Over and Above Those Usually included "
+IL - 97156-HN Family ABT Guidance,IL,Behavior Supports,97156-HN Family ABT Guidance,97156-Family Adaptive Behavior Treatment Guidance
+IL - 97158-Group ABT w|Protocol Modification,IL,Behavior Supports,97158-Group ABT w/Protocol Modification,97158-Group Adaptive Behavior Treatment with Protocol Modification
+IL - 97154-Group ABT by Protocol,IL,Behavior Supports,97154-Group ABT by Protocol,97154-Group Adaptive Behavior Treatment by Protocol
+IL - 97157-Multi-family+E46 Group ABT Guidance,IL,Behavior Supports,97157-Multi-family+E46 Group ABT Guidance,97157-Multiple Family Group Adaptive Behavior Treatment Guidance
+IL - 56U-Behavior Intervention and Treatment Level 2 ,IL,Behavior Supports,56U-Behavior Intervention and Treatment Level 2 ,56U-Behavior Intervention and Treatment Level 2 
+MO - 97152-HM Observational Behavioral Follow=Up Assessment,MO,Behavior Supports,97152-HM Observational Behavioral Follow=Up Assessment,97152-HM Observational Behavioral Follow=Up Assessment
+MO - 97153-HN Adaptive Behavior Treatment by Protocol by Technician,MO,Behavior Supports,97153-HN Adaptive Behavior Treatment by Protocol by Technician,97153-HN Adaptive Behavior Treatment by Protocol by Technician
+MO - 97156 HO Family Training,MO,Family Training,97156 HO Family Training,97156 HO Family Training
+MO - 97152-HN Observational Behavioral Follow-Up Assessment,MO,Behavior Supports,97152-HN Observational Behavioral Follow-Up Assessment,97152-HN Observational Behavioral Follow-Up Assessment 
+IL - 97153-MN Adaptive Behavior Treatment by Protocol by Technician,IL,Behavior Supports,97153-MN Adaptive Behavior Treatment by Protocol by Technician,97153-MN Adaptive Behavior Treatment by Protocol by Technician 
+IL - 97152-HM Behavior Identification Supporting Assessment,IL,Behavior Supports,97152-HM Behavior Identification Supporting Assessment,97152-HM Behavior Identification Supporting Assessment
+IL - 97152-HN Behavior Identification Supporting Assessment,IL,Behavior Supports,97152-HN Behavior Identification Supporting Assessment,97152-HN Behavior Identification Supporting Assessment
+IL - 97156-HO Family Adaptive Behavior Treatment Guidance,IL,Behavior Supports,97156-HO Family Adaptive Behavior Treatment Guidance,97156-HO Family Adaptive Behavior Treatment Guidance
+MO - 97155-HN Adaptive Behavior Treatment with Protocol Modification,MO,Behavior Supports,97155-HN Adaptive Behavior Treatment with Protocol Modification,97155-HN Adaptive Behavior Treatment with Protocol Modification

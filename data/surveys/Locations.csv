@@ -1,0 +1,382 @@
+﻿AU,Description,State,Status
+2102,761 Milford,WI,0
+2106,Wakoka 1 - 1316,WI,0
+2106,Wakoka 1 - 1318,WI,0
+2107,Wakoka 2 - 1320,WI,0
+2107,Wakoka 2 - 1322,WI,0
+2109,Fairfield,WI,0
+2110,East Haven,WI,0
+2113,Madison,WI,0
+2114,Monroe,WI,0
+2140,Stoneridge,WI,0
+2214,Fond du Lac - 37,WI,0
+2214,Fond Du Lac - 43,WI,0
+2219,O'Connell,WI,0
+2220,Eggelston,WI,0
+2250,East Haven 1,WI,0
+2251,East Haven 2,WI,0
+2252,Concord 1,WI,0
+2253,Concord 2,WI,0
+2254,Milford,WI,0
+2256,Clovercrest,WI,0
+2258,Eichstaedt,WI,0
+3100,IN Regional Office,IN,0
+3101,Oswego 2,IN,0
+3105,Rothman B,IN,0
+3106,Oswego 1,IN,0
+3107,Huguenard,IN,0
+3108,Abernathy,IN,0
+3111,Forestview,IN,0
+3112,Grafton,IN,0
+3112,Garden Club 2,IN,0
+3113,Vitiano,IN,0
+3114,Tapered Bank Run,IN,0
+3117,Rothman A,IN,0
+3121,Troutwood,IN,0
+3124,Queenboro,IN,0
+3125,Twelfth Night,IN,0
+3126,Merlin,IN,0
+3126,Garden Club 1,IN,0
+3128,Breckenridge,IN,0
+3129,Alexander,IN,1
+3137,Fiesta Way,IN,0
+3158,Mockingbird,IN,0
+3162,"North 16th ",IN,1
+3163,Green Acre,IN,0
+3164,Sandalwood,IN,0
+3165,Valpo,IN,0
+3166,Franciscan,IN,0
+3183,Copeland,IN,0
+3192,Trinity Park,IN,0
+3194,Meadow Lake,IN,0
+3195,Park,IN,0
+3197,Port,IN,1
+3200,MI Administrative Office,MI,1
+3201,Caledonia,MI,1
+3202,Frankenmuth,MI,1
+3203,Franklin,MI,1
+3205,Fox Wood,MI,1
+3300,NJ Administrative Office,NJ,1
+3301,Pompton Lakes,NJ,1
+3302,Oakland,NJ,1
+3303,Dumont,NJ,1
+3305,Montville,NJ,1
+4000,IL Regional Office,IL,0
+4119,Michigan Ave CILA,IL,0
+4120,Hankes CILA - 1774,IL,0
+4121,Hance CILA - 1774,IL,0
+4121,Hance CILA - 1776,IL,0
+4123,Navajo CILA,IL,0
+4131,Oak CILA,IL,0
+4132,Walnut CILA,IL,0
+4133,Thornapple CILA,IL,0
+4134,Courtney CILA,IL,0
+4135,Spring CILA,IL,0
+4136,Oakland CILA,IL,0
+4137,Allister CILA,IL,0
+4139,Woodmere CILA,IL,0
+4141,Eastern CILA,IL,0
+4150,IL CENTRAL ADMINISTRATION,IL,1
+4152,Sherman CILA,IL,0
+4154,Latigo CILA,IL,0
+4156,Phlox CILA,IL,0
+4157,Hosta CILA,IL,0
+4159,Sandy Lane CILA - 2912,IL,0
+4159,Sandy Lane - 2914,IL,0
+4160,Garvey CILA - 620,IL,0
+4160,Garvey CILA - 622,IL,0
+4161,Magnolia CILA - 1606,IL,0
+4161,Magnolia CILA - 1608,IL,0
+4163,Diana Taft Host Home,IL,0
+4182,Driftwood ISL,MO,1
+4183,Dan Court ISL,MO,1
+4184,Casa Royale ISL,MO,1
+4186,Esterling ISL,MO,0
+4189,Amberglow ISL,MO,1
+4190,MO Administrative Office,MO,1
+4193,Maryville GH,MO,1
+4196,Radnor ISL,MO,1
+4199,Kimberly ISL,MO,1
+4200,KS Administrative Office,KS,1
+4220,Options Day Program,KS,1
+4252,Olathe 1,KS,1
+4253,Olathe 2,KS,1
+4255,Gardner 1,KS,1
+4257,Gardner 2,KS,1
+4260,Clarion Park Apartments - Apt F JE,KS,1
+4260,Clarion Park Apartments - Apt E,KS,1
+4263,Wenonga,KS,0
+4264,Prairie Village,KS,1
+4265,Merriam 1,KS,0
+4265,Merriam 2,KS,0
+4267,Gilmore Shared Living,KS,1
+4267,LeFlore Shared Living,KS,1
+4267,Ichoho Shared Living,KS,1
+4267,Sanders Shared Living,KS,1
+4501,Cottage 1,MN,0
+4505,Rosewood (Cottage 5),MN,1
+4506,Cardinal (Cottage 6),MN,1
+4507,7th Place,MN,1
+4508,Bloomington,MN,1
+4509,Golden Valley,MN,1
+4510,Maple Grove,MN,1
+4511,Victoria,MN,1
+4512,Saint Louis Park,MN,1
+4513,Chaska,MN,1
+4514,Hopkins,MN,1
+4517,Ham Lake,MN,1
+4518,Magnolia Group Home,MN,1
+4600,Cheri Lindberg,MN,1
+4600,Michele Franzen,MN,1
+5000,TX Regional Office,TX,0
+5103,CLC Cypress Day Program,TX,0
+5104,Spring,TX,0
+5106,Kings Court,TX,0
+5107,Armadillo Trails,TX,0
+5108,Good Samaritan,TX,0
+5109,Tomball Hills,TX,0
+5113,Lakewood Grove,TX,0
+5114,Chapel Lake,TX,0
+5115,Pelican Point,TX,0
+5116,Fairwood,TX,0
+5117,Arbormont,TX,0
+5118,White Heron,TX,0
+5119,Chapel Cove,TX,0
+5120,Floret Estates,TX,0
+5121,Camellia Estates,TX,0
+5122,Maverick Valley,TX,0
+5123,Delta Estates,TX,0
+5125,Callahan Host Home,TX,0
+5125,Hernandez Host Home,TX,0
+5125,Ortiz Host Home,TX,0
+5125,Green Host Home,TX,0
+5125,Cecil Host Home,TX,0
+5125,Brooke Host Home,TX,0
+5125,Stacey Host Home,TX,0
+5125,Rios Host Home,TX,0
+5125,Walker Host Home,TX,0
+5125,Dorsey Host Home,TX,0
+5125,Croyle Host Home,TX,0
+5125,Furini Host Home,TX,0
+5125,Taylor Host Home,TX,0
+5125,Roush Host Home,TX,0
+5125,Valdez Host Home,TX,0
+5215,Smith Host Home,TX,0
+6100,Western Region Admin,CA,1
+6201,Mithra,CA,1
+6202,Hartog,CA,1
+6205,Osprey,CA,1
+6206,Mosquero,CA,1
+6207,Charlemagne,CA,1
+6208,Parthenon,CA,1
+6209,Regina,CA,1
+6211,Ferrocarril,CA,1
+6213,Mawson,CA,1
+6214,Las Bolsas,CA,1
+6215,Papagayo,CA,1
+6308,Charleville,CA,0
+6312,Wren 2,CA,0
+6315,Mathew,CA,1
+6316,San Lucia,CA,0
+6317,Westfield,CA,0
+6318,Belmont,CA,0
+6319,Wren 1,CA,0
+6321,Summit,CA,0
+6323,Lake Superior,CA,0
+6402,Mowry,CA,1
+6403,"Ewe Way ",CA,1
+6460,"Taylor Host Home ",CA,1
+6460,"Edwards Host Home ",CA,1
+6460,"Steadman Host Home ",CA,1
+6501,Dogwood,OR,1
+6502,Tina St.,OR,1
+6503,Brookwood - Apt 26,OR,1
+6503,Brookwood - Apt 25,OR,1
+6503,Brookwood - Apt 27,OR,1
+6503,Brookwood - Apt 29,OR,1
+6503,Brookwood - Apt 33,OR,1
+6503,Brookwood - Apt 35,OR,1
+6503,Brookwood - Apt 36,OR,1
+6503,Brookwood - Apt 37,OR,1
+6503,Brookwood - Apt 39,OR,1
+6504,Wyndhaven - 196,OR,1
+6504,Wyndhaven - 242,OR,1
+6504,Wyndhaven - 248,OR,1
+6504,Wyndhaven - 161,OR,1
+6504,Wyndhaven - 136,OR,1
+6504,Wyndhaven - 179,OR,1
+6504,Wyndhaven - 317,OR,1
+6504,Wyndhaven - 301,OR,1
+6504,Wyndhaven - 105,OR,1
+6504,Wyndhaven - 429,OR,1
+6506,Simpson,OR,1
+6508,86th AVE (Santiam),OR,1
+6509,Alsea,OR,1
+6512,89th CT,OR,1
+6513,Doyle 2 - APT 2713,OR,1
+6513,Doyle 1  - APT 2712,OR,1
+6513,"Doyle 3 ",OR,1
+6513,Trailwalk,OR,1
+6513,182nd AVE,OR,1
+6513,Wyndhaven - 107,OR,1
+6515,Drake,OR,1
+6516,55th,OR,1
+6518,Tanager,OR,1
+6519,Lonny,OR,1
+6520,Birchwood,OR,1
+6522,27th,OR,1
+6523,Alder,OR,1
+6524,Fourth,OR,1
+6525,Clark CT - 2740,OR,1
+6525,Clark CT - 2744,OR,1
+6526,Ginger,OR,1
+6528,Ginger ST - 2355 (Estabrook),OR,1
+6529,Maple St. - APT 1603,OR,1
+6529,Maple St. - APT 1605,OR,1
+6529,Maple St. - APT 1607,OR,1
+6529,Maple St. Apartment 1609,OR,1
+6532,73rd - 2505,OR,1
+6537,191st AVE,OR,1
+6539,Pacific,OR,1
+6541,Kathryn,OR,1
+6548,Clinton - 2509,OR,1
+6552,Heather Tech Dispatch,OR,1
+6555,26th & Franklin - 3233,OR,1
+6555,26th & Franklin - 2525,OR,1
+6555,26th & Franklin - 2527,OR,1
+6556,Heather ST,OR,1
+6557,Main ST - 1811,OR,1
+6557,Main ST - 1813,OR,1
+6557,Main ST - 1815,OR,1
+6558,79th - 5221,OR,1
+6558,79th - 5223,OR,1
+6558,79th - 5225,OR,1
+6559,Ankeny,OR,1
+6560,Garrett - Unit A,OR,1
+6560,Garrett - Unit B,OR,1
+6560,Garrett - Unit C,OR,1
+6560,Garrett - Unit D,OR,1
+6563,SW 3rd ST - 11841,OR,1
+6563,SW 3rd ST - 11847,OR,1
+6563,SW 3rd ST - 11855,OR,1
+6563,SW 3rd ST - 11863,OR,1
+6566,Cayuse,OR,1
+6600,CO Regional Office,CO,1
+6603,Ridge Road,CO,1
+6607,Caley,CO,1
+6608,Logan,CO,0
+6609,Wellington,CO,1
+6610,Delaware,CO,1
+6613,Sherman,CO,1
+6614,Gallup (HUD),CO,1
+6617,Ten Eyck Host Home,CO,0
+6617,Farina Host Home,CO,1
+6617,Platz Host Home,CO,1
+6617,Perez Host Home,CO,1
+6617,Handley (I Care Home Care) Host Home,CO,1
+6617,MacDonald (DOCHAS) Host Home,CO,1
+6617,Baker (Gentle Days) Host Home,CO,1
+6617,O'Leary Host Home,CO,1
+6617,Hammond Host Home,CO,0
+6617,Niki's Place,CO,1
+6617,McGirl-Schmitz Host Home,CO,1
+6621,Littleton Apartments - Apt 207,CO,1
+6621,Littleton Apartments - Apt 209,CO,1
+6621,Littleton Apartments - Apt 318,CO,1
+6621,Littleton Apartments Apt D107,CO,1
+6621,Littleton Apartments - Magnolia,CO,1
+6626,Melick-Mayhew Day Program,CO,0
+6628,Nelson-Ashcraft Day Program,CO,1
+6633,Garcia Host Home,CO,1
+6633,Wall Family Care Giver,CO,1
+6633,Ogletree Host Home,CO,0
+6633,Nicholson Host Home,CO,1
+6633,Walker-Owens Host Home,CO,1
+6633,Windford Host Home,CO,1
+6633,Matthew Host Home,CO,1
+6633,Roberts Host Home,CO,1
+6633,Garcia Family Caregiver,CO,1
+6633,Johnson Host Home,CO,0
+6633,Temple host home,CO,1
+6633,Webb Host Home,CO,1
+6633,Westphal Host Home,CO,1
+6633,Ansu Host Home,CO,1
+6637,Jacobs Family Care Giver,CO,1
+6637,Soto Family Care Giver,CO,1
+6637,Myers Family Care Giver,CO,1
+6637,Bright Family Care Giver,CO,1
+6637,"Johnsen Family Care Giver ",CO,1
+6638,Aserese Host Home,CO,0
+6638,Orekoya Host Home,CO,1
+6638,Boahene Host Home,CO,1
+6638,Alva Host Home,CO,1
+6638,Sibuea (Arian Living)  Host Home,CO,1
+6638,Leggese Host Home,CO,1
+6638,Belayneh Host Home,CO,1
+6638,Torres Host Home,CO,1
+6638,Demise Host home,CO,1
+6638,Bernier Host Home,CO,1
+6638,Ceesay Host Home,CO,1
+6638,Woods Host Home,CO,1
+6638,Ali Host Home,CO,1
+6638,Hughes (Ahn House) Host Home,CO,1
+6638,Francis (Kiran Francis Host Home) Host Home,CO,1
+6638,Groth (Heart Full Purpose) Host Home,CO,1
+6638,Taylor Host Home,CO,1
+6638,Tambunan Host Home,CO,1
+6638,Deguma (Misrak Service) Host Home,CO,1
+6638,Akinola Host Home,CO,1
+6638,Rogers Host Home,CO,1
+6638,Kumsa Host Home,CO,1
+6638,Haddis Host Home,CO,1
+6638,Sianturi Host Home,CO,1
+6638,Albright Host Home,CO,1
+6638,Nigussie Host Home,CO,1
+6638,Mamo Host Home,CO,1
+6638,Sukmarayanti Host home,CO,1
+6638,Woldeyohannes Host Home,CO,1
+6640,High Street,CO,1
+6801,Rogers,CA,1
+6802,Dewitt,CA,1
+6803,Browning,CA,1
+6805,Mitchell,CA,1
+6806,Helm,CA,1
+6807,Ashcroft,CA,1
+6808,Richert,CA,1
+6809,Filbert,CA,1
+6811,Gateway,CA,1
+6900,OR Regional Office,OR,1
+6901,Olympia,WA,1
+6902,105th,WA,1
+6903,19th,WA,1
+6904,113th,WA,1
+6911,415 Williams - Apt 310,WA,0
+6912,417 Williams #103,WA,0
+6913,417 Williams AVE South #309,WA,0
+6914,3603 NE 10th Ln,WA,1
+6915,236 Williams Ave N,WA,1
+6916,600 SW 5th Ct #1-202,WA,0
+6916,Olympia 2,WA,1
+6921,359 Factory Ave N #353,WA,0
+6921,116th Street,WA,0
+6923,353 Factory Ave N #355,WA,0
+6924,417 Williams AVE South #106,WA,1
+6926,24015 110th PL SE #Q203,WA,1
+6950,WA Regional Office,WA,1
+7401,"141st ",OR,0
+9155,Thrift Store - Watertown,WI,1
+9156,Thrift Store - Sheboygan,WI,1
+9158,Thrift Store - Horicon DC,WI,1
+9159,Thrift Store - Wausau,WI,1
+9161,Thrift Store - Eau Claire,WI,1
+9162,Thrift Store - Neenah,WI,1
+9169,Thrift Store - Minnetonka,MN,1
+9170,Thrift Store - Saginaw,MI,1
+9171,Thrift Store - Valparaiso,IN,1
+9173,Thrift Store - Ballwin,MO,0
+9174,Thrift Store - Wichita,KS,1
+9182,Thrift Store - Hales Corners,WI,0
+9183,Thrift Stores - Horicon,WI,1
+9184,Thrift Store - Appleton,WI,1
+9187,Thrift Store - Green Bay,WI,1
+9189,Thrift Store - Crystal Lake,IL,1

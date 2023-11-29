@@ -1,7 +1,7 @@
 import authenticate_with_msal
 
 # Parameters
-PathToEnvironmentJSON = "example-env.json"
+PathToEnvironmentJSON = "data-analytics-dev.json"
 
 # Getting access token.
 authentication = authenticate_with_msal.getAuthenticatedSession(PathToEnvironmentJSON)

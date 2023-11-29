@@ -1,0 +1,144 @@
+﻿Name,State,Survey List Category,Survey Type,Description
+CA - External Reported Incident - Adult Protective Services,CA,External Reported Incident,Adult Protective Services,Adult Protective Services
+NJ - Risk and Compliance - Annual Certification,NJ,Risk and Compliance,Annual Certification,Annual Certification
+IL - HCBS - BQM 115 CILA Licensure,IL,HCBS,BQM 115 CILA Licensure,IL Bureau of Quality Management - Rule 115
+IL - HCBS - BQM 116 Med Mgmt,IL,HCBS,BQM 116 Med Mgmt,IL Bureau of Quality Management Medication Management
+"IL - Risk and Compliance - Bureau of Accreditation, Licensure, & Certification",IL,Risk and Compliance,"Bureau of Accreditation, Licensure, & Certification","Bureau of Accreditation, Licensure, & Certification"
+CA - Conversion - CA - Conversion,CA,Conversion,CA - Conversion,CA - Conversion
+KS - HCBS - Certification,KS,HCBS,Certification,KS Certification
+CO - ICF-Full - Certification - ICF,CO,ICF-Full,Certification - ICF,CO Certification -ICF
+CO - HCBS - Certification - Waiver,CO,HCBS,Certification - Waiver,CO Certification - Waiver
+MI - Self Reported Investigation - CLS Event Verification Audit,MI,Self Reported Investigation,CLS Event Verification Audit,CLS Event Verification Audit
+MI - Self Reported Investigation - CLS Full Annual Audit,MI,Self Reported Investigation,CLS Full Annual Audit,CLS Full Annual Audit
+CA - External Reported Incident - CMS|DDS - ANME Investigation,CA,External Reported Incident,CMS/DDS - ANME Investigation,CMS/DDS - ANME Investigation
+CA - Financial - CMS|DDS - Financial Audit ,CA,Financial,CMS/DDS - Financial Audit ,CMS/DDS - Financial Audit 
+CA - External Reported Incident - CMS|DDS - Fraud Investigation,CA,External Reported Incident,CMS/DDS - Fraud Investigation,CMS/DDS - Fraud Investigation
+CA - External Reported Incident - CMS|DDS - Medical Review Audit,CA,External Reported Incident,CMS/DDS - Medical Review Audit,CMS/DDS - Medical Review Audit
+CO - Conversion - CO - Conversion,CO,Conversion,CO - Conversion,CO - Conversion
+CO - Infection Control - CO - Infection Control,CO,Infection Control,CO - Infection Control,CO - Infection Control
+CO - External Reported Incident - Complaint Investigation,CO,External Reported Incident,Complaint Investigation,CO Complaint Investigation
+IL - External Reported Incident - Complaint Investigation,IL,External Reported Incident,Complaint Investigation,IL  Complaint Investigation - OIG
+IN - External Reported Incident - Complaint Investigation,IN,External Reported Incident,Complaint Investigation,IN Complaint Investigation
+KS - External Reported Incident - Complaint Investigation,KS,External Reported Incident,Complaint Investigation,KS Complaint Investigation
+MI - External Reported Incident - Complaint Investigation,MI,External Reported Incident,Complaint Investigation,MI Complaint Investigation
+MN - External Reported Incident - Complaint Investigation,MN,External Reported Incident,Complaint Investigation,MN Complaint Investigation
+MO - External Reported Incident - Complaint Investigation,MO,External Reported Incident,Complaint Investigation,MO Complaint Investigation
+NJ - External Reported Incident - Complaint Investigation,NJ,External Reported Incident,Complaint Investigation,NJ Complaint Investigation
+OR - External Reported Incident - Complaint Investigation,OR,External Reported Incident,Complaint Investigation,OR Complaint Investigation
+TX - External Reported Incident - Complaint Investigation,TX,External Reported Incident,Complaint Investigation,TX Complaint Investigation
+WA - External Reported Incident - Complaint Investigation,WA,External Reported Incident,Complaint Investigation,WA Complaint Investigation
+WI - External Reported Incident - Complaint Investigation,WI,External Reported Incident,Complaint Investigation,WI Complaint Investigation
+MN - Contract|County - County Certification,MN,Contract|County,County Certification,County Certification
+MN - Contract|County - County Certification Revisit,MN,Contract|County,County Certification Revisit,County Certification Revisit
+IN - CQL - CQL - Accreditation ,IN,CQL,CQL - Accreditation ,CQL - Accreditation 
+IN - CQL - CQL - Revisit|Verification,IN,CQL,CQL - Revisit/Verification,CQL - Revisit/Verification
+CA - ICF-Full - DDS - Regional Center Annual Survey,CA,ICF-Full,DDS - Regional Center Annual Survey,DDS - Regional Center Annual Survey
+CA - Self Reported Investigation - DDS - Regional Center Complaint|Self-Reported Survey,CA,Self Reported Investigation,DDS - Regional Center Complaint/Self-Reported Survey,DDS - Regional Center Complaint/Self-Reported Survey
+CA - ICF-Abbrev|Focused - DDS - Regional Center Unannounced Survey,CA,ICF-Abbrev|Focused,DDS - Regional Center Unannounced Survey,DDS - Regional Center Unannounced Survey
+MN - Self Reported Investigation - DHS - Licensure,MN,Self Reported Investigation,DHS - Licensure,DHS - Licensure
+MN - Self Reported Investigation - DHS - Licensure Revisit,MN,Self Reported Investigation,DHS - Licensure Revisit,DHS - Licensure Revisit
+WI - HCBS - DHS State Survey,WI,HCBS,DHS State Survey,WI DHS State Survey
+MO - HCBS - DMH Licensure,MO,HCBS,DMH Licensure,MO DMH Licensure Survey
+CA - ICF-Full - DSS|CCF - CCL Annual Survey,CA,ICF-Full,DSS/CCF - CCL Annual Survey,DSS/CCF - CCL Annual Survey
+CA - Self Reported Investigation - DSS|CCF - CCL Complaint|Self-Reported Survey,CA,Self Reported Investigation,DSS/CCF - CCL Complaint/Self-Reported Survey,DSS/CCF - CCL Complaint/Self-Reported Survey
+CA - ICF-Full - DSS|CCF - CCL Initial Certification Survey,CA,ICF-Full,DSS/CCF - CCL Initial Certification Survey,DSS/CCF - CCL Initial Certification Survey
+CA - ICF-Abbrev|Focused - DSS|CCF - CCL Unannounced Survey ,CA,ICF-Abbrev|Focused,DSS/CCF - CCL Unannounced Survey ,DSS/CCF - CCL Unannounced Survey 
+CA - Risk and Compliance - Equal Employment Opportunity Commission,CA,Risk and Compliance,Equal Employment Opportunity Commission,Equal Employment Opportunity Commission
+MN - Life Safety|Fire - E-Score Eval,MN,Life Safety|Fire,E-Score Eval,MN EScore Evaluation
+CO - ICF-Full - Federal - ICF,CO,ICF-Full,Federal - ICF,CO Federal - ICF
+CO - Financial - Financial,CO,Financial,Financial,CO Financial
+KS - Financial - Financial,KS,Financial,Financial,KS Financial
+MI - Financial - Financial Survey,MI,Financial,Financial Survey,Financial Survey
+NJ - Financial - Financial Survey,NJ,Financial,Financial Survey,Financial Survey
+OR - Financial - Financial Survey,OR,Financial,Financial Survey,Financial Survey
+WA - Financial - Financial Survey,WA,Financial,Financial Survey,Financial Survey
+IL - Life Safety|Fire - Fire Insp.,IL,Life Safety|Fire,Fire Insp.,IL Fire Marshall Inspection
+KS - Life Safety|Fire - Fire Insp.,KS,Life Safety|Fire,Fire Insp.,KS Fire Inspection
+MI - Life Safety|Fire - Fire Insp. Revisit,MI,Life Safety|Fire,Fire Insp. Revisit,MI Fire Safety - Revisit
+MI - Life Safety|Fire - Fire Insp.Annual,MI,Life Safety|Fire,Fire Insp.Annual,MI Fire Safety-Annual
+CO - Life Safety|Fire - Fire Inspection,CO,Life Safety|Fire,Fire Inspection,CO Fire Inspection
+WA - Life Safety|Fire - Fire Inspection Survey,WA,Life Safety|Fire,Fire Inspection Survey,WA Fire Inspection Survey 
+MN - Life Safety|Fire - Fire Inspections,MN,Life Safety|Fire,Fire Inspections,MN Fire Inspection
+CA - Life Safety|Fire - Fire Marshall|Fire Inspection,CA,Life Safety|Fire,Fire Marshall/Fire Inspection,Fire Marshall/Fire Inspection
+IN - Risk and Compliance - Fire Marshall|Fire Inspection,IN,Risk and Compliance,Fire Marshall/Fire Inspection,Fire Marshall/Fire Inspection
+MN - Risk and Compliance - Fire Marshall|Fire Inspection,MN,Risk and Compliance,Fire Marshall/Fire Inspection,Fire Marshall/Fire Inspection
+NJ - Life Safety|Fire - Fire|Life Safety,NJ,Life Safety|Fire,Fire/Life Safety,Fire/Life Safety
+IN - HCBS - HCBS-Non Residential,IN,HCBS,HCBS-Non Residential,HCBS-Non Residential
+TX - External Reported Incident - HCS - Certification,TX,External Reported Incident,HCS - Certification,HCS - Certification
+TX - Self Reported Investigation - HCS - Revisit,TX,Self Reported Investigation,HCS - Revisit,HCS - Revisit
+TX - HCBS - HCS Recertification,TX,HCBS,HCS Recertification,HCS Recertification
+CA - ICF-Abbrev|Focused - ICF - Abbreviated|Self-Reported Survey,CA,ICF-Abbrev|Focused,ICF - Abbreviated/Self-Reported Survey,ICF - Abbreviated/Self-Reported Survey
+IN - Self Reported Investigation - ICF - Abbreviated|Self-Reported Survey,IN,Self Reported Investigation,ICF - Abbreviated/Self-Reported Survey,ICF - Abbreviated/Self-Reported Survey
+CA - ICF-Full - ICF - Extended Recertification Survey,CA,ICF-Full,ICF - Extended Recertification Survey,ICF - Extended Recertification Survey
+IN - ICF-Revisit - ICF - Extended Recertification Survey,IN,ICF-Revisit,ICF - Extended Recertification Survey,ICF - Extended Recertification Survey
+CA - ICF-Abbrev|Focused - ICF - Focused Fundamental Recertification,CA,ICF-Abbrev|Focused,ICF - Focused Fundamental Recertification,ICF - Focused Fundamental Recertification
+IN - ICF-Abbrev|Focused - ICF - Focused Fundamental Recertification ,IN,ICF-Abbrev|Focused,ICF - Focused Fundamental Recertification ,ICF - Focused Fundamental Recertification 
+IN - ICF-Full - ICF - Full Recertification ,IN,ICF-Full,ICF - Full Recertification ,ICF - Full Recertification 
+CA - ICF-Full - ICF - Full Recertification Survey,CA,ICF-Full,ICF - Full Recertification Survey,ICF - Full Recertification Survey
+TX - ICF-Full - ICF - Health Safety,TX,ICF-Full,ICF - Health Safety,ICF - Health Safety
+CA - ICF-Full - ICF - Initial Certification Survey,CA,ICF-Full,ICF - Initial Certification Survey,ICF - Initial Certification Survey
+IN - ICF-Full - ICF - Initial Certification Survey,IN,ICF-Full,ICF - Initial Certification Survey,ICF - Initial Certification Survey
+MN - ICF-Full - ICF - Licensure,MN,ICF-Full,ICF - Licensure,ICF - Licensure
+CA - Life Safety|Fire - ICF - Life Safety Survey,CA,Life Safety|Fire,ICF - Life Safety Survey,ICF - Life Safety Survey
+IN - Life Safety|Fire - ICF - Life Safety Survey,IN,Life Safety|Fire,ICF - Life Safety Survey,ICF - Life Safety Survey
+TX - Life Safety|Fire - ICF - Life Safety Survey,TX,Life Safety|Fire,ICF - Life Safety Survey,ICF - Life Safety Survey
+CA - External Reported Incident - ICF - Outside Agency Complaint,CA,External Reported Incident,ICF - Outside Agency Complaint,ICF - Outside Agency Complaint
+MN - ICF-Revisit - ICF - Revisit,MN,ICF-Revisit,ICF - Revisit,ICF - Revisit
+TX - ICF-Revisit - ICF - Revisit,TX,ICF-Revisit,ICF - Revisit,ICF - Revisit
+IN - ICF-Full - ICF Fundamental Recertification,IN,ICF-Full,ICF Fundamental Recertification,ICF Fundamental Recertification
+IL - Conversion - IL - Conversion,IL,Conversion,IL - Conversion,IL - Conversion
+IN - Conversion - IN - Conversion,IN,Conversion,IN - Conversion,IN - Conversion
+TX - Self Reported Investigation - Investigation Survey,TX,Self Reported Investigation,Investigation Survey,Investigation Survey
+KS - Conversion - KS - Conversion,KS,Conversion,KS - Conversion,KS - Conversion
+OR - Self Reported Investigation - Licensing Revisit Survey,OR,Self Reported Investigation,Licensing Revisit Survey,Licensing Revisit Survey
+NJ - Risk and Compliance - Licensing Survey,NJ,Risk and Compliance,Licensing Survey,Licensing Survey
+OR - Self Reported Investigation - Licensing Survey,OR,Self Reported Investigation,Licensing Survey,Licensing Survey
+KS - HCBS - LIcensure,KS,HCBS,LIcensure,KS Licensure
+CO - HCBS - Licensure - Waiver,CO,HCBS,Licensure - Waiver,CO Licensure - Waiver
+CO - Life Safety|Fire - LIfe Safety,CO,Life Safety|Fire,LIfe Safety,CO Life Safety
+CA - External Reported Incident - LTC - Ombudsman,CA,External Reported Incident,LTC - Ombudsman,LTC - Ombudsman
+MI - Conversion - MI - Conversion,MI,Conversion,MI - Conversion,MI - Conversion
+MN - Conversion - MN - Conversion,MN,Conversion,MN - Conversion,MN - Conversion
+MO - Conversion - MO - Conversion,MO,Conversion,MO - Conversion,MO - Conversion
+NJ - Conversion - NJ - Conversion,NJ,Conversion,NJ - Conversion,NJ - Conversion
+IL - Contract|County - OIG-Allegation Investigation,IL,Contract|County,OIG-Allegation Investigation,OIG-Allegation Investigation
+OR - Conversion - OR - Conversion,OR,Conversion,OR - Conversion,OR - Conversion
+OR - Risk and Compliance - OSHA Complaint Survey,OR,Risk and Compliance,OSHA Complaint Survey,OSHA Complaint Survey
+OR - Risk and Compliance - OSHA Routine Survey,OR,Risk and Compliance,OSHA Routine Survey,OSHA Routine Survey
+CA - Risk and Compliance - OSHA Survey,CA,Risk and Compliance,OSHA Survey,OSHA Survey
+IN - Risk and Compliance - OSHA Survey,IN,Risk and Compliance,OSHA Survey,OSHA Survey
+MI - Risk and Compliance - OSHA Survey,MI,Risk and Compliance,OSHA Survey,OSHA Survey
+NJ - Risk and Compliance - OSHA Survey,NJ,Risk and Compliance,OSHA Survey,OSHA Survey
+TX - Risk and Compliance - OSHA Survey,TX,Risk and Compliance,OSHA Survey,OSHA Survey
+WA - Risk and Compliance - OSHA Survey,WA,Risk and Compliance,OSHA Survey,OSHA Survey
+MO - Risk and Compliance - QE - RN Review,MO,Risk and Compliance,QE - RN Review,QE - RN Review
+WA - Self Reported Investigation - RCS - Full Agency Certification,WA,Self Reported Investigation,RCS - Full Agency Certification,RCS - Full Agency Certification
+WA - Self Reported Investigation - RCS - Licensing Survey,WA,Self Reported Investigation,RCS - Licensing Survey,RCS - Licensing Survey
+WA - Self Reported Investigation - RCS - Revisit,WA,Self Reported Investigation,RCS - Revisit,RCS - Revisit
+MI - HCBS - Rec. Rights - Annual,MI,HCBS,Rec. Rights - Annual,MI Recipient Rights - Annual
+MI - HCBS - Rec. Rights - Revisit,MI,HCBS,Rec. Rights - Revisit,MI Recipient Rights - Revisit
+KS - HCBS - Recertification,KS,HCBS,Recertification,KS Recertification
+CO - ICF-Abbrev|Focused - Recertification - ICF,CO,ICF-Abbrev|Focused,Recertification - ICF,CO Recertification - ICF
+CO - HCBS - Recertification - Waiver,CO,HCBS,Recertification - Waiver,CO Recertification - Waiver
+KS - HCBS - Revisit ,KS,HCBS,Revisit ,KS Revisit
+CO - ICF-Revisit - Revisit - ICF,CO,ICF-Revisit,Revisit - ICF,CO Revisit - ICF
+CO - HCBS - Revisit - Waiver,CO,HCBS,Revisit - Waiver,CO Revisit - Waiver
+NJ - Self Reported Investigation - Self Reported,NJ,Self Reported Investigation,Self Reported,NJ Self Reported Incident
+OR - Self Reported Investigation - Self Reported,OR,Self Reported Investigation,Self Reported,OR Self Reported Incident
+TX - Self Reported Investigation - Self Reported,TX,Self Reported Investigation,Self Reported,TX Self Reported Incident
+WA - Self Reported Investigation - Self Reported,WA,Self Reported Investigation,Self Reported,WA Self Reported Incident
+CO - Self Reported Investigation - Self Reported Inc.,CO,Self Reported Investigation,Self Reported Inc.,CO Self Reported Inc.
+IL - Self Reported Investigation - Self Reported Inc.,IL,Self Reported Investigation,Self Reported Inc.,IL Self Reported Inc
+IN - Self Reported Investigation - Self Reported Inc.,IN,Self Reported Investigation,Self Reported Inc.,IN Self Reported Incident
+KS - Self Reported Investigation - Self Reported Inc.,KS,Self Reported Investigation,Self Reported Inc.,KS Self Reported Incident
+MI - Self Reported Investigation - Self Reported Inc.,MI,Self Reported Investigation,Self Reported Inc.,MI Self Reported Inc.
+MN - Self Reported Investigation - Self Reported Inc.,MN,Self Reported Investigation,Self Reported Inc.,MN Self Reported Inc
+MO - Self Reported Investigation - Self Reported Inc.,MO,Self Reported Investigation,Self Reported Inc.,MO Self Reported Inc.
+WI - Self Reported Investigation - Self Reported Inc.,WI,Self Reported Investigation,Self Reported Inc.,WI Self Reported Incident
+CO - ICF-Full - State Licensure - ICF,CO,ICF-Full,State Licensure - ICF,CO State Licensure - ICF
+TX - Financial - Trust Fund|Medicaid Audit,TX,Financial,Trust Fund/Medicaid Audit,Trust Fund/Medicaid Audit
+TX - Conversion - TX - Conversion,TX,Conversion,TX - Conversion,TX - Conversion
+NJ - External Reported Incident - Unannounced Survey,NJ,External Reported Incident,Unannounced Survey,Unannounced Survey
+WA - Conversion - WA - Conversion,WA,Conversion,WA - Conversion,WA - Conversion
+TX - Self Reported Investigation - Waiver - Residential Survey,TX,Self Reported Investigation,Waiver - Residential Survey,Waiver - Residential Survey
+WI - Conversion - WI - Conversion,WI,Conversion,WI - Conversion,WI - Conversion
